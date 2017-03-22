@@ -25,5 +25,8 @@ public class JavaStringPractice {
 	   
 	   //char[] to String
 	   System.out.println(new String(a1));
+	   String[][] str_arr= {{"abcd"},{"adbc"},{"abce"}};
+	   System.out.println(str_arr[2][0]);
+	   
 	}
 }
