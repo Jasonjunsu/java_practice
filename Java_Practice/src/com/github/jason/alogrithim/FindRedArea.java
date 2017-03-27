@@ -1,4 +1,4 @@
-package com.github.jason;
+package com.github.jason.alogrithim;
 
 import java.util.Scanner;
 
