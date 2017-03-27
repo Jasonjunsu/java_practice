@@ -1,5 +1,4 @@
 package com.github.jason.alogrithim;
-
 import java.util.Scanner;
 import java.io.FileInputStream;
 
